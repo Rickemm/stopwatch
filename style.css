@@ -28,7 +28,7 @@ body {
   padding: 0 10px;
 }
 
-.wrapper .time span {
+.wrapper .time span{
   width: 100px;
   text-align: center;
   font-size: 50px;
@@ -36,16 +36,13 @@ body {
   color: #333;
 }
 
-.time span .colon {
+.time span.colon{
   width: 10px;
 }
 
-.time span .ms-colon{
-  color: #7D2AE8;
-} 
-
-.time span .millisecond {
-  color: #7D2AE8;
+.time span.ms-colon,
+.time span.millisecond {
+  color: #7D2Ae8;
 }
 
 .wrapper .buttons {
